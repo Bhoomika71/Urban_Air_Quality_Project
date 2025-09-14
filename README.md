@@ -1,4 +1,4 @@
-# AirQualityInsight: A Predictive Analysis of Urban Air Pollution in India (2010-2023)
+# AirQualityInsight: A Predictive Analysis of Urban Air Pollution in India 
 
 ## 1. Project Overview
 
